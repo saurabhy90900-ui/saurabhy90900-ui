@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00C2FF&center=true&vCenter=true&width=600&lines=Saurabh+Yadav;Java+Developer;Full+Stack+Java+Developer" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=36&pause=2000&color=00C2FF&center=true&vCenter=true&width=750&lines=SAURABH+YADAV;JAVA+DEVELOPER;FULL+STACK+JAVA+DEVELOPER"
+    alt="Typing SVG"
+  />
 </p>
+
 <h3 align="center">Java Developer | Full Stack Java Developer</h3>
 
 <p align="center">
