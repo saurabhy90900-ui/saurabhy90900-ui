@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Saurabh Yadav</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00C2FF&center=true&vCenter=true&width=600&lines=Saurabh+Yadav;Java+Developer;Full+Stack+Java+Developer" />
+</p>
 <h3 align="center">Java Developer | Full Stack Java Developer</h3>
 
 <p align="center">
