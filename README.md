@@ -100,6 +100,8 @@ Passionate about building reliable software solutions using Java, databases, and
 - 📧 Email: **saurabhy90900@gmail.com**
 - 💻 GitHub: https://github.com/saurabhy90900-ui
 - 📄 Naukri: **Saurabh Yadav**
+- <img width="512" height="512" alt="linkedin" src="https://github.com/user-attachments/assets/466c7597-1f0d-473c-8fdf-b61e0a75ad48" />
+LinkedIn:  https://www.linkedin.com/in/saurabh-yadav-1460ba36b/
 
 ---
 
