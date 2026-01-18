@@ -11,7 +11,7 @@ Passionate about building reliable software solutions using Java, databases, and
 
 - 🎓 **B.Sc. in Information Technology (2025)**
 - 🏫 Ramanand Arya D.A.V. College
-- 📍 Kalva, Mumbai, India
+- 📍 Thane, Mumbai, India
 - 💻 Java & Full Stack Developer
 - 🌱 Strong foundation in **Core Java, JDBC, JSP, Servlets, MySQL**
 - ⚡ Interested in backend development & system design
@@ -88,20 +88,17 @@ Passionate about building reliable software solutions using Java, databases, and
 - Data Structures & Algorithms  
 - DBMS  
 - Operating Systems  
-- Computer Networks  
 - OOP  
 - Software Engineering  
-- Cloud Computing  
 
 ---
 
 ## 🔗 Connect With Me
 
-- 📧 Email: **saurabhy90900@gmail.com**
-- 💻 GitHub: https://github.com/saurabhy90900-ui
-- 📄 Naukri: **Saurabh Yadav**
-- <img width="512" height="512" alt="linkedin" src="https://github.com/user-attachments/assets/466c7597-1f0d-473c-8fdf-b61e0a75ad48" />
-LinkedIn:  https://www.linkedin.com/in/saurabh-yadav-1460ba36b/
+- 📧 Email: **saurabhy90900@gmail.com**  
+- 💼 GitHub: https://github.com/saurabhy90900-ui  
+- 🔗 LinkedIn:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/saurabh-yadav-1460ba36b/)
 
 ---
 
